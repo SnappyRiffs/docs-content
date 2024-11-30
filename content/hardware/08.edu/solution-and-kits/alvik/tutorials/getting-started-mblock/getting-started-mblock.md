@@ -188,7 +188,7 @@ Alvik comes with two built-in **RGB LEDs**, located on top of the robot.
 
 ![Alvik LEDs](assets/alvik_leds.png)
 
-On the top of Alvik you can also find **8 buttons**, that let you operate the robot.
+On the top of Alvik you can also find **7 buttons**, that let you operate the robot.
 
 ![Alvik buttons](assets/touchButtons.png)
 
